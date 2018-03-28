@@ -11,7 +11,7 @@
 3.觀察檔案狀態
 <p> $ git status  </p>
 4.將 某檔案 提交(commit)至Repository
-<p>git commit -m "add 某文字檔"  </p>
+<p>git commit -m "add 某檔"  </p>
 5.push
 <p> $ git push</p>
 
