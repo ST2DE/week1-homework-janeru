@@ -3,8 +3,8 @@
 
 1.建立GIT版控
 到terminal:
- $ mkdir 要使用的資料夾
- $ cd 要使用的資料夾
+ <p>$ mkdir 要使用的資料夾</p>
+ <p>$ cd 要使用的資料夾</p>
 > $ git init
 2.新增檔案
 > $ echo HI > 某文字檔
