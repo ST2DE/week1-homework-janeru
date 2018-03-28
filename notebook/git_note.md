@@ -19,4 +19,4 @@ git commit -m "add 某文字檔"
 5.push
 >$ git push
 
-####參考資料來源：https://kingofamani.gitbooks.io/git-teach/content/chapter_2/
+參考資料來源：https://kingofamani.gitbooks.io/git-teach/content/chapter_2/
